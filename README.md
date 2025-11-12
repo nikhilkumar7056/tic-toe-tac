@@ -20,3 +20,5 @@ This project was created to practice **DOM manipulation**, **JavaScript logic**,
 
 ## 🚀 Live Demo
 [View on GitHub Pages](https://github.com/nikhilkumar7056/tic-toe-tac)
+## 📸 Preview
+C:/Users/nikhi/Desktop/Projects/Tic-Tac-Toe/index.html
