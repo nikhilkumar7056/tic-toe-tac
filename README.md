@@ -19,4 +19,4 @@ It allows two players to take turns placing X and O on a 3×3 grid until one win
 This project was created to practice **DOM manipulation**, **JavaScript logic**, and **responsive web design**.
 
 ## 🚀 Live Demo
-[View on GitHub Pages](https://yourusername.github.io/tic-tac-toe/)
+[View on GitHub Pages](https://github.com/nikhilkumar7056/tic-toe-tac)
